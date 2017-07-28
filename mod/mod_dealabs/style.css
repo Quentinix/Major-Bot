@@ -1,0 +1,30 @@
+.mod_dealabs .titre{
+	padding: 10px;
+	text-align: center;
+	font-size: 32px;
+	font-variant: small-caps;
+	font-family: roboto;
+}
+
+.mod_dealabs .titre a{
+	color: black;
+}
+
+.mod_dealabs .item{
+	background-color: rgba(0, 0, 0, 0.15);
+	padding: 6px;
+	box-shadow: 2px 3px 5px;
+	font-family: roboto;
+}
+
+.mod_dealabs .title{
+	
+}
+
+.mod_dealabs .title a{
+	
+}
+
+.mod_dealabs .description{
+	
+}

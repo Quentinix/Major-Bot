@@ -6,3 +6,6 @@
 .settings/org.eclipse.wst.jsdt.ui.superType.name
 .project
 .buildpath
+*.pdn
+inc/IGNOREfonction.inc
+.settings/org.eclipse.core.resources.prefs
